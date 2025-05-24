@@ -1,5 +1,5 @@
-bitnami/minio:2025.4.22
-minio/minio:latest
+bitnami/minio:2024.6.6
+minio/minio
 mysql:8.1
 redis:7.0.12
 node:20-alpine
