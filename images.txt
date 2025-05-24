@@ -1,4 +1,4 @@
-minio/minio
+bitnami/minio:2025.4.22
 mysql:8.1
 redis:7.0.12
 node:20-alpine
