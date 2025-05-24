@@ -3,3 +3,4 @@ mysql:8.1
 redis:7.0.12
 node:20-alpine
 eclipse-temurin:17-jdk
+--platform=linux/arm64
