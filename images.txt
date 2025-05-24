@@ -1,6 +1,5 @@
-bitnami/minio:2025.4.22
-mysql:8.1
-redis:7.0.12
-node:20-alpine
-eclipse-temurin:17-jdk
---platform=linux/arm64
+bitnami/minio:2025.4.22 --platform=linux/arm64
+mysql:8.1 --platform=linux/arm64
+redis:7.0.12 --platform=linux/arm64
+node:20-alpine --platform=linux/arm64
+eclipse-temurin:17-jdk --platform=linux/arm64
